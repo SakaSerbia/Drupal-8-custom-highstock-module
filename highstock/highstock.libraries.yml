@@ -1,0 +1,9 @@
+highstock_chart:
+  version: 1.x
+  js:
+    js/highstock.js: {}
+    js/exporting.js: {}
+    js/export-data.js: {}
+    js/highstock_chart.js: {}
+  dependencies:
+  - core/jquery
